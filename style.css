@@ -4,6 +4,17 @@ body {
 }
 
 #principal {
-    border: 1px solid red;
     width: 900px;
+}
+
+#menu {
+    background: #c5c5b2;
+    padding: 18px;
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;    
 }
